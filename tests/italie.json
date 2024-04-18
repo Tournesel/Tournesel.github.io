@@ -1,0 +1,128 @@
+{
+  "name": "Régions de l'Italie",
+  "elementsTypes": {
+    "cityType": "Chef-lieu"
+  },
+  "elements": [
+    {
+      "id": "path1",
+      "name": "Frioul-Vénétie Julienne",
+      "details": {
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/5/55/Flag_of_Friuli-Venezia_Giulia.svg",
+        "alt":"Drapeau du Frioul-Vénétie Julienne",
+        "city": "Trieste",
+        "pop": "1.5m",
+        "text": "blablabla",
+        "names": [
+          {
+            "name": "Friuli-Venezia Giulia",
+            "alt":"Italien",
+            "flagURL": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg"
+          },
+          {
+            "name": "Friûl-Vignesie Julie",
+            "alt":"frioulais",
+            "flagURL": "https://upload.wikimedia.org/wikipedia/commons/5/55/Flag_of_Friuli-Venezia_Giulia.svg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "path2",
+      "name": "Vénétie",
+      "details": {
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Flag_of_Veneto.svg",
+        "city": "Venise",
+        "alt":"dd",
+        "pop": "5m",
+        "text": "Blabla venise",
+        "names": [{
+          "name": "Regione Veneto",
+          "alt":"",
+          "flagURL": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg"
+        }]
+      }
+    },{
+      "id":"path3",
+      "name":"Trentin-Haut-Adige",
+      "details":{
+        "flagURL":"https://upload.wikimedia.org/wikipedia/commons/8/84/Sicilian_Flag.svg",
+        "city":"Trente",
+        "alt":"",
+        "pop":"ff",
+        "text":"",
+        "names":[]
+      }
+    },{
+      "id": "path4",
+      "name": "Lombardie",
+      "details": {
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Lombardy.svg",
+        "alt": "Drapeau de la Lombardie",
+        "city": "Milan",
+        "pop": "10m",
+        "text": "",
+        "names": [{
+          "flagURL": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+          "alt": "Italien",
+          "name": "Lombardia"
+        }]
+      }
+    },{
+      "id": "path6",
+      "name": "Piémont",
+      "details": {
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Piedmont.svg",
+        "alt": "Drapeau du Piémont",
+        "city": "Turin",
+        "pop": "4.3m",
+        "text": "",
+        "names": []
+      }
+    },{
+      "id": "path5",
+      "name": "Vallée d'Aoste",
+      "details": {
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Valle_d%27Aosta.svg",
+        "alt": "",
+        "city": "Aoste",
+        "pop": "",
+        "text": "",
+        "names": []
+      }
+    },{
+      "id": "path7",
+      "name": "Ligurie",
+      "details": {
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Liguria.svg",
+        "alt": "",
+        "city": "",
+        "pop": "",
+        "text": "",
+        "names": []
+      }
+    },{
+      "id": "path8",
+      "name": "Emilie-Romagne",
+      "details": {
+        "flagURL": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Emilia-Romagna_%28de_facto%29.svg",
+        "alt": "",
+        "city": "",
+        "pop": "",
+        "text": "",
+        "names": []
+      }
+    },{
+      "id": "path10",
+      "name": "Toscane",
+      "details": {
+        "flagURL": "",
+        "alt": "",
+        "city": "",
+        "pop": "",
+        "text": "",
+        "names": []
+      }
+    }
+  ]
+}

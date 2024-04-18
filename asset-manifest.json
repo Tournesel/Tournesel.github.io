@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jeu-geo/static/css/main.94e1041f.css",
+    "main.js": "/jeu-geo/static/js/main.e240bc44.js",
+    "static/js/787.db6dd536.chunk.js": "/jeu-geo/static/js/787.db6dd536.chunk.js",
+    "index.html": "/jeu-geo/index.html",
+    "main.94e1041f.css.map": "/jeu-geo/static/css/main.94e1041f.css.map",
+    "main.e240bc44.js.map": "/jeu-geo/static/js/main.e240bc44.js.map",
+    "787.db6dd536.chunk.js.map": "/jeu-geo/static/js/787.db6dd536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94e1041f.css",
+    "static/js/main.e240bc44.js"
+  ]
+}
